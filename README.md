@@ -1,6 +1,6 @@
 Airbnb Data Analysis Project - README
 
-I've created a comprehensive README.md file for your GitHub repository based on the notes from your project notebook. The README summarizes: project overview and dataset information
+I've created a comprehensive README.md file for My GitHub repository based on the notes from My project. The README summarizes: project overview and dataset information
 The detailed workflow steps (problem statement, data collection, cleaning, transformation, visualization)
 Key insights you discovered about accommodation preferences, pricing factors, and booking patterns
 Dashboard features you developed
